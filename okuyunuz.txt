@@ -1,0 +1,30 @@
+
+Bu klasöre ekleyeceğiniz mp3 ve wav uzantılı dosyalar
+program yeniden açıldığında listede gözükür.
+Ekle butonu ile eklenince hemen listede gözükür.
+
+'toren' ve 'ikaz' kelimeleri ile başlayan melodiler listede gözükmez.
+'toren' ve 'ikaz' kelimeleri ile başlayan melodiler silinmemelidir.
+yenisi aynı isimle kayıt edilmelidir.
+
+
+Dosya isimleri aşağıdaki şekilde olmalı, (dosya standardı 128 kbps)
+
+toren_istiklal_marsi.mp3
+toren_saygi_durusu.mp3
+toren_saygi_ve_istiklal.mp3
+
+ikaz_kirmizi.mp3
+ikaz_sari.mp3
+ikaz_siyah.mp3
+
+iconlari da değiştirebilirsiniz, ancak isimleri değişmemelidir. yanlışlıkla silerseniz isimleri aşağıdadır.
+sol_menu_2.PNG
+sol_menu_3.PNG
+zil.png
+ana_sayfa.png
+melodi_sayfasi.png
+ayarlar_sayfasi.png
+takvim.png
+info.png
+loading.gif
